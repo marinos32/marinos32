@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marinos Kaitis
+- 👋 Hi, I’m Marinos Kaitis, im 32 years old and i live in Cyprus
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Python , SQL , R and upgrading my Excel Skills aswel
 - 💞️ I’m looking to collaborate on any project
