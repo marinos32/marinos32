@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marinos Kaitis, im 33 years old and i live in Cyprus
-- 👀 I’m interested in Data Analytics, and Exercise (both physical and mental) 
-- 🌱 I’m currently using Python , SQL and Excel to extract insides from any type of data
+- 👀 I’m interested in Data Analytics, Machine Learning and Exercise (both physical and mental) 
+- 🌱 I’m currently using Python , SQL and Excel using various techniques to extract insides from any type of data
 - 📫 How to reach me www.linkedin.com/in/marinos-kaitis-26ba27135
 
 <!---
